@@ -18,7 +18,6 @@ các công việc các phải làm được nêu trong các mục dưới đây.
 ### 2.1. Dữ liệu nhập
 -  File `data.csv`: chứa các thông tin về vị trí của các phương tiện 
 	vận chuyển, trong đó chúng ta quan tâm 4 thông số quan trọng sau:
-	+ COLLECTED_TIME (timestamp): thời điểm mà dữ liệu được gởi về. 
 	+ TAG: ID của phương tiện. %ARMY\_ID: số hiệu của phương tiện.
 	+ LONGITUDE (long): kinh độ.
 	+ LATITUDE (lat): vĩ độ.
