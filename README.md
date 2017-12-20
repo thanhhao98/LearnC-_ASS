@@ -18,7 +18,7 @@ các công việc các phải làm được nêu trong các mục dưới đây.
 ### 2.1. Dữ liệu nhập
 -  File `data.csv`: chứa các thông tin về vị trí của các phương tiện 
 	vận chuyển, trong đó chúng ta quan tâm 4 thông số quan trọng sau:
-	+ TAG: ID của phương tiện. %ARMY\_ID: số hiệu của phương tiện.
+	+ TAG: ID của phương tiện. ARMY\_ID: số hiệu của phương tiện.
 	+ LONGITUDE (long): kinh độ.
 	+ LATITUDE (lat): vĩ độ.
 - File `request.txt`: chứa các yêu cầu xử lý dữ liệu. Các yêu cầu này được 
