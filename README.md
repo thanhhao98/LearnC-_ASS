@@ -104,7 +104,7 @@ Các bạn được cho các hàm sau:
 
 
 Các bạn chỉ phải hiện thực 3 hàm trong file process.cpp ( các file khác không được viết lên):
-- `processMini`: hàm xử lý event.
+- `process`: hàm xử lý event.
 - `readDataInf`: đọc file data và mảng dataInf.
 - `readEvent`: đọc file event vào mang event.
 

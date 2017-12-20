@@ -15,7 +15,9 @@ int readEvent(char* fname, DataEvent_t* ev ){
 }
 
 //implement this function to process event ev
-void processMini(DataEvent_t ev, DataInf_t* db , int numData){
+//delete return before code
+void process(DataInf_t* , DataEvent_t , int ){
     // TO DO
+    return;
 }
 

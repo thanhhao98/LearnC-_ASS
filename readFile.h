@@ -10,14 +10,7 @@ int readDataInf(char*, DataInf_t* );
 int readEvent(char*, DataEvent_t* );
 
 // Function process a event 
-void processMini(DataInf_t* , DataEvent_t , int );
-
-// Function process all events
-void process(DataInf_t* db, DataEvent_t *ev, int numEvent, int numData ){
-    for(int i=0; i< numEvent;i++){
-        processMini(db, ev[i], numData);
-    }
-}
+void process(DataInf_t *, DataEvent_t, int);
 
 
 #endif

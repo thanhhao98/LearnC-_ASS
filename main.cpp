@@ -1,7 +1,7 @@
 #include <iostream>
-#include "myMath.h"
 #include "myStructLib.h"
 #include "readFile.h"
+#include "myMath.h"
 
 
 using namespace std;
@@ -15,10 +15,13 @@ int main(int narg, char** argv) {
     int numEvent = readEvent(argv[2],ev);
 
     cout << fixed << setprecision(12);
-    process(db,ev,numEvent, numData);
+
+    for(int i=0;i<numEvent;i++){
+        process(db,ev[i], numData);
+    }
+
+
     cout << resetiosflags(ios::showbase) << setprecision(-1);
-
-
 
     return 0;
 }
