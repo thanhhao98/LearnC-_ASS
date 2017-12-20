@@ -91,7 +91,8 @@ Các yêu cầu truy xuất có mã và mô tả về việc truy xuất lần l
 	
 Các bạn được cung cấp các tập tin sau đây:
 - `main.cpp`: mã nguồn chính của chương trình.
-- `myMath.h`: tập tin chứa các hàm được cho sẵng
+- `myMath.h`: tập tin chứa đinh nghĩa các hàm được cho sẵng.
+- `myMath.cpp`: tập tin chứa hiện thực các hàm được cho sẵng.
 - `mystruckLib.h`: tập tin chưa định nghĩa của các struct được cho sẵng.
 - `readFile.cpp`: tập tin chứa đinh nghĩa các hàm đọc file, sử lý event.
 - `process.h`: tập tin chứa các hàm sửa lý event, đọc file.

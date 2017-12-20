@@ -1,7 +1,5 @@
 #include <iostream>
-#include "myStructLib.h"
 #include "readFile.h"
-#include "myMath.h"
 
 
 using namespace std;

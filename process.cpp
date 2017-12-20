@@ -1,6 +1,8 @@
 #include "readFile.h"
 
 
+
+
 // implement this function to read data from file
 // delete return 0 before code
 int readDataInf(char* fname, DataInf_t* db){

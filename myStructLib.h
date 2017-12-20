@@ -4,6 +4,9 @@
 #include <string>
 #include <string.h>
 #include <iomanip>
+
+
+
 #define MAX_SIZE_EVENT 6
 #define MAX_SIZE_ID 8
 #define MAX_LINE_FILE 5000000
@@ -33,6 +36,8 @@ typedef struct DataEvent{
         strncpy(code, c, MAX_SIZE_EVENT - 1);
     }
 } DataEvent_t;
+
+
 
 
 
