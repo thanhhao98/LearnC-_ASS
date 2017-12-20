@@ -6,7 +6,7 @@
 #include <iomanip>
 #define MAX_SIZE_EVENT 6
 #define MAX_SIZE_ID 8
-#define MAX_LINE_FILE 100000
+#define MAX_LINE_FILE 5000000
 
 using namespace std;
 
