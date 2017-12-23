@@ -65,7 +65,7 @@ Các yêu cầu truy xuất có mã và mô tả về việc truy xuất lần l
 3. **Xác định số lượng phương tiện lưu trữ trong dánh sách**
 	<br/>
 	Mã yêu cầu: `3`<br/>
-    Khi gặp yê cầu này sinh viên in ra id của phương tiện lưu trữ cuối cùng trong danh sách.
+    Khi gặp yê cầu này sinh viên in ra số lượng id khác nhau có trong danh sách.
 	
 		
 4. **Xác định phương tiện hiện diện ở 2 vị trí xa nhau nhất**

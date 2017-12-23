@@ -9,7 +9,7 @@
 
 #define MAX_SIZE_EVENT 6
 #define MAX_SIZE_ID 8
-#define MAX_LINE_FILE 5000000
+#define MAX_LINE_FILE 1100
 
 using namespace std;
 
